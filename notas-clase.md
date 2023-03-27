@@ -45,5 +45,7 @@ input.dataset.tipo; dataset representa el arbol de datas que se han puesto en el
 
 pattern="[\s\S]{10,40}"
 
+fork en git hub pages hara una copia del codigo para que la pueda modificar
+
 
  
